@@ -1,6 +1,8 @@
 ### Hi there 👋
 
 Oii, eu sou a Aline!
+
+
 🎓 Mestranda em Computação Aplicada
 🎓 Graduada em Ciência da Computação
 💡 Desenvolvedora de software com foco em tecnologia inclusiva
